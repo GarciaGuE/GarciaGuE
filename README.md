@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
+I'm Emilio, a recently graduated Software Engineer from Córdoba, Spain 🇪🇸 .
 
-<!--
-**GarciaGuE/GarciaGue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently learning/working on:
 
-Here are some ideas to get you started:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0089D6?style=flat-square&logo=Microsoft%20Office&logoColor=white)](https://www.microsoft.com/microsoft-365/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white)](https://www.terraform.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to reach me:
+[![Correo Electrónico](https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:emiliogarciagutierrez01@gmail.com)](mailto:emiliogarciagutierrez01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/emiliogarciagutierrez/)](https://www.linkedin.com/in/emiliogarciagutierrez/)
+
