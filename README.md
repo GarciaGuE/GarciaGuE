@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, what's going on?
 I'm Emilio, a recently graduated Software Engineer from Córdoba, Spain 🇪🇸 .
 
 ## 🔭 I’m currently learning/working on:
