@@ -15,3 +15,10 @@ I'm Emilio, a recently graduated Software Engineer from Córdoba, Spain 🇪🇸
 [![Correo Electrónico](https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:emiliogarciagutierrez01@gmail.com)](mailto:emiliogarciagutierrez01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/emiliogarciagutierrez/)](https://www.linkedin.com/in/emiliogarciagutierrez/)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarciaGuE&theme=algolia) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarciaGuE&theme=algolia) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarciaGuE&theme=algolia) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarciaGuE&theme=algolia) 
