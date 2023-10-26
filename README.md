@@ -18,8 +18,8 @@ I'm Emilio, a recently graduated Software Engineer from Córdoba, Spain 🇪🇸
 ## Summary
 <div align="center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarciaGuE&theme=algolia) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarciaGuE&theme=algolia) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarciaGuE&theme=algolia) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarciaGuE&theme=algolia)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarciaGuE&theme=transparent)  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarciaGuE&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarciaGuE&theme=transparent) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarciaGuE&theme=transparent)
 </div>
